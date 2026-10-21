@@ -1,0 +1,7 @@
+{
+  "name": "busgraphi-front-tests",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node smoke.test.mjs" },
+  "devDependencies": { "dompurify": "3.1.6", "jsdom": "^24.1.0", "marked": "12.0.2" }
+}
